@@ -1,0 +1,1 @@
+This project focuses on analyzing hotel booking data to uncover insights into booking patterns, customer behaviors, and factors impacting reservations in the hospitality industry. Using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn, I perform data cleaning, exploratory data analysis (EDA), and predictive modeling.
